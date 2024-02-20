@@ -21,12 +21,16 @@ header img {
 
 nav {
   position: absolute;
-  right: 24px;
+  right: 72px;
 }
 
 nav ul li {
   display: inline;
+
   margin: 24px;
   font-size: 16px;
+}
+nav ul li a {
+  text-decoration: none;
   color: #eead2d;
 }
